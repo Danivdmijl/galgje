@@ -7,7 +7,7 @@
 |1|2|3|4|
 
 ## Score
-![gallow](./images/3.png)
+![gallow](./images/5.png)
 
 ## Beurten 
 1. k (x)
@@ -16,3 +16,4 @@
 4. e ("D)
 5. r ("D)
 6. b (X)
+7. i
