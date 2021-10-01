@@ -9,4 +9,5 @@
 ## Score
 ![gallow](./images/1.png)
 
-## Beurten
+## Beurten 
+1. k
